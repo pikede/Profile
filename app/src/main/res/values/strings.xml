@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="gender">Gender</string>
+    <string name="about">About</string>
+    <string name="school">School</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="base_url">http://hinge-ue1-dev-cli-android-homework.s3-website-us-east-1.amazonaws.com/</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
